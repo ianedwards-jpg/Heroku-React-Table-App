@@ -2,7 +2,7 @@
  
 ## Overview
 
-Heroku JSON Table Application is a dynamic table used to display JSON data in a table that can be sorted alphabetically, by phone number, or by .
+Heroku JSON Table Application is a dynamic table used to display JSON data in a table that can be sorted alphabetically, by phone number, by Employee ID or any other field.
 
 ## Views
 
