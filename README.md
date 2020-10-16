@@ -33,4 +33,4 @@ Users can sort the table by
 
 ## Usage 
 
-If you wish to add your own JSON, you will need to update the URL within the Ajax call, as well as the "req" fields to match 
+If you wish to add your own JSON, you will need to update the URL within the Ajax call, as well as the "req" fields to match the data you are trying to map.
