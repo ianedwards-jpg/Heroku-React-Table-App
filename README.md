@@ -33,4 +33,4 @@ Users can sort the table by
 
 ## Usage 
 
-If you wish to add your own JSON
+If you wish to add your own JSON, you will need to 
