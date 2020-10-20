@@ -9,7 +9,7 @@ Heroku JSON Table Application is a dynamic table used to display JSON data in a 
 
 Heroku JSON Table Application is a single page table that will allow you to view and sort JSON data in ascending or decending order per each field.
 
-![Main Page]()
+![Main Page](./public/react_table)
 
 Users can sort the table by
 
