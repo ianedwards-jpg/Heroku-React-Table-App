@@ -7,7 +7,7 @@ Heroku JSON Table Application is a dynamic table used to display JSON data in a 
 ## Views
 
 
-Heroku JSON Table Applicaiton is a single page table that will allow you to view and sort JSON data in ascending or decending order per each field.
+Heroku JSON Table Application is a single page table that will allow you to view and sort JSON data in ascending or decending order per each field.
 
 ![Main Page]()
 
@@ -33,7 +33,7 @@ Users can sort the table by
 
 ## Usage 
 
-If you wish to view your own JSON, you will need to update the URL within the Ajax call, as well as the "req" fields to match the data you are trying to map. You will also have manually modify the column titles to fit your JSON. 
+If you wish to view your own JSON via this application, you will need to update the URL within the Ajax call, as well as the "req" fields to match the data you are trying to map. You will also have manually modify the column titles to fit your JSON. 
 
 ## Future Development
 
