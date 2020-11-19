@@ -38,3 +38,6 @@ If you wish to view your own JSON via this application, you will need to update 
 ## Future Development
 
 In the future, I wish to modify the GUI so that a URL can be inserted and JSON added to the table via an on-screen URL bar.
+
+JSON source file: https://tinyurl.com/yyg8uv4u | Raw URL: https://raw.githubusercontent.com/ianedwards-jpg/React_Table_Employee_Tracker/master/user_directory_app/public/employees.json
+
